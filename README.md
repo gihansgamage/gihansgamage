@@ -1,6 +1,11 @@
-I’m an undergraduate pursuing a BSc (Hons) in Computer Science at the University of Peradeniya with a passion for software engineering, web and mobile application development, and creating innovative digital solutions. I enjoy learning new technologies, solving real-world problems, and continuously improving my technical and creative skills.
-Alongside my academic journey, I’m also a social media content creator with an interest in digital creativity, branding, and online engagement. I enjoy combining technology and creativity to produce impactful content and meaningful user experiences.
-I’m motivated by continuous learning, teamwork, and opportunities that help me grow both personally and professionally.
+##Hello World, 
+###I'm Gihan
+
+I am a Computer Science undergraduate at the University of Peradeniya with a strong interest in Software Engineering, Web Technologies, Mobile Application Development, and Computer Systems.
+
+My goal is to develop reliable, efficient, and user-focused software solutions that address real-world challenges. I enjoy working across the software development lifecycle, from designing and implementing applications to testing and optimization.
+
+I am passionate about continuous learning, collaborative problem-solving, and applying technology to create meaningful impact. Through academic projects and personal initiatives, I continuously expand my knowledge of modern software development practices and emerging technologies.
 
 ## Skills
 
