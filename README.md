@@ -1,5 +1,5 @@
-##Hello World, 
-###I'm Gihan
+## Hello World, 
+### I'm Gihan
 
 I am a Computer Science undergraduate at the University of Peradeniya with a strong interest in Software Engineering, Web Technologies, Mobile Application Development, and Computer Systems.
 
